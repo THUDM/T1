@@ -10,11 +10,14 @@
 
 </div>
 
+
 ## Introduction
 
 We present T1 with strong reasoningability and superior performance on challenging mathematical reasoning benchmarks.
 T1 is trained by scaling RL by encouraging exploration and understand
 inference scaling. We first initialize the LLM using synthesized chain-of-thought data that integrates trial-and-error and self-verification.  T1 with open LLMs as its base exhibits inference scaling behavior and achieves superior performance on challenging math reasoning benchmarks. 
+
+- **[2025/01/22]** We have released the [paper](https://arxiv.org/abs/2501.11651) and [SFT data](https://huggingface.co/datasets/THUDM/T1/tree/main). Model weights and RL training data will be released soon.
 
 <p align="center">
 <img src="./figures/inference_scaling_overview_aime_intro.svg" width="600">
