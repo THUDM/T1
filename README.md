@@ -3,7 +3,7 @@
 <h1>Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling</h1>
 
 <p align="center">
-  <a href="">📃Paper</a> •
+  <a href="https://arxiv.org/abs/2501.11651">📃Paper</a> •
   <a href="https://huggingface.co/datasets/THUDM/T1/tree/main">🤗Datasets</a> •
   <a href="">🤗Model (coming soon)</a>
 </p>
