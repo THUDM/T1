@@ -53,5 +53,10 @@ Our approach achieves competitive performance across challenging mathematical re
 ## 📚 Citation
 
 ```
-Coming soon!
+@article{hou2025advancing,
+      title={Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling}, 
+      author={Zhenyu Hou and Xin Lv and Rui Lu and Jiajie Zhang and Yujiang Li and Zijun Yao and Juanzi Li and Jie Tang and Yuxiao Dong},
+      year={2025},
+      journal={arXiv preprint arXiv:2501.11651},
+}
 ```
